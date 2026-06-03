@@ -21,7 +21,25 @@ A comprehensive personal finance tracker built in Excel/WPS Sheets.
 
 ## Screenshots
 
-(Add screenshots here)
+## Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+## Expense Tracker
+
+![Expenses](screenshots/expenses.png)
+
+## Receivables
+
+![Receivables](screenshots/Receivables.png)
+
+## Key Metrics
+
+- Total Savings
+- Total Investments
+- Net Worth
+- Outstanding Receivables
+- Outstanding Liabilities
 
 ## Author
 
